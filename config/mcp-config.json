@@ -1,0 +1,21 @@
+{
+  "mcp_version": "2026.1",
+  "bridge_name": "Opal-REPlexus-Bridge",
+  "endpoints": {
+    "CRM_DATA": "opal://salesforce/v2/accounts",
+    "USAGE_LOGS": "opal://grpc/telemetry/production",
+    "BILLING": "opal://kiloclaw/billing/v1"
+  },
+  "mappings": [
+    {
+      "skill_id": 38,
+      "requires": ["USAGE_LOGS", "CRM_DATA"],
+      "logic": "Check for >30% drop in gRPC calls vs Salesforce 'High Value' status"
+    },
+    {
+      "skill_id": 40,
+      "requires": ["BILLING"],
+      "logic": "Cross-reference decline codes with 'Technical Friction' dictionary"
+    }
+  ]
+}

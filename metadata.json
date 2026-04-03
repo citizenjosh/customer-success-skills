@@ -1,0 +1,5 @@
+{
+  "name": "Customer Success Skill Portal",
+  "description": "An AI-enabled Customer Success portal for Customer Success engineering, featuring agentic execution via KiloClaw and telemetry via Opal.",
+  "requestFramePermissions": []
+}
