@@ -20,8 +20,9 @@ This is a sovereign library of specialized AI Skills designed to reduce the toil
 ## Key Pillars of the Framework
 1. **Technical Integrity:** Moving beyond basic CRM notes to multi-protocol schema alignment (gRPC, OpenAPI).
 2. **Outcome Intent:** Codifying exactly what the customer wants to achieve from Day 0.
-3. **Value Receipts:** Automating the evidence of ROI for CFO-level reviews.
-4. **Predictive Save-Plays:** Using neural telemetry to identify and stop churn 90 days in advance.
+3. **Value Receipts:** Automating the evidence of ROI.
+4. **Holism:** Include information from multiple sources: CRM, support tickets, email, chat, call transcripts, usage data, etc.
+5. **Prediction:** Predict 100% of churn.
 
 ## How to Use This Framework
 
