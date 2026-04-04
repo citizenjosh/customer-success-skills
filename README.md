@@ -9,7 +9,7 @@
 
 **Version:** 1.0.0
 
-**Framework Author:** [Josh Rosenthal](https://linkedin.com/in/citizen) on behalf of REPlexus
+**Framework Author:** [Josh R](https://linkedin.com/in/citizen) on behalf of REPlexus
 
 ---
 
