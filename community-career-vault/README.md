@@ -1,5 +1,5 @@
 # Community Career Vault
-
+sdfhhsfghsgfhsfghsfghsgfh
 Welcome to the **Community Career Vault**. This space is a dedicated repository for open-source AI skills, agent prompts, and blueprints focused on personal career acceleration, career transitions, and job search optimization for Customer Success, Account Management, and RevOps professionals.
 
 While the core `skills-library/` maps to corporate, post-sale operations, this vault is built specifically by the community, for the community, to help practitioners navigate organizational changes, layoffs, and job hunts with high-leverage AI tools.
